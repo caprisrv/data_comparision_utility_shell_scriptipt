@@ -1,0 +1,16 @@
+#,   Parameters,   Counts/Value
+1,   1st db & table name,   (productreporting_qa) & (qa_std_retro_offer_data)
+2,   no of rec. in 1st table,   84409
+3,   2nd db & table name,   (productreporting_qa) & (dev_std_retro_offer_data)
+4,   no of rec. in 2nd table,   84412
+5,   db and table for Mismatch result,   (productreporting_qa) & (test_std_offer_result_1)
+6,   key used for comparison,   (consumer_identifier)
+7,   total no. of mismatches,   97
+8,   no of rec. Present in (qa_std_retro_offer_data) but not in (dev_std_retro_offer_data)  ,   0
+9,   no of rec. Present in (dev_std_retro_offer_data) but not in (qa_std_retro_offer_data)  ,   2
+10,  List of column having atleast one mismatch, offer_identifier;offer_type_code;offer_type_description;promo_identifier;accepted_offer_flag;offer_good_until_date;offer_date_time;account_expiration_date;  
+11,  List of column having atleast one NULL value,   
+12,  Column list with distinct value is present at , /axp/gms/csassp/dev/test_automation/credit_approval_rate_target/results/distinct_col_list  
+13,  Start Time for the test ,  2019-01-21.02:03:02  
+14,  Total Time taken for the process to complete,  00:20:46  
+15,  User trigger test,  sgupt483  

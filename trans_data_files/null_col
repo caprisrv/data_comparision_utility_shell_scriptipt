@@ -1,0 +1,2 @@
+report_date	offer_identifier	app_identifier	consumer_identifier	offer_type_code	offer_type_description	promo_identifier	product_identifier	sub_product_identifier	accepted_offer_flag	offer_good_until_date	rescindable_days	rescinded_date	amount	rate	origination_fee_amount	origination_fee_rate	account_number	account_num_assigned_date_time	annual_fee_amount	annual_fee_waived_mm	late_fee_percent	late_fee_minimum_amount	offer_date_time	period_id	first_payment_due_date	contract_date	account_expiration_date
+0	0	0	0	0	0	0	0	0	0	0	0	0	84409	0	0	0	0	0	0	0	0	0	0	0	0	0	0

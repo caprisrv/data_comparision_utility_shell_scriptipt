@@ -1,0 +1,12 @@
+tab1_colname 		datatype                                   | tab2_colname 		datatype
+========================================================================================================
+rescindable_days    	string              	                    | rescindable_days    	void                	                    
+rescinded_date      	string              	                    | rescinded_date      	void                	                    
+rate                	string              	                    | rate                	double              	                    
+origination_fee_amount	string              	                    | origination_fee_amount	void                	                    
+origination_fee_rate	string              	                    | origination_fee_rate	void                	                    
+annual_fee_amount   	string              	                    | annual_fee_amount   	void                	                    
+annual_fee_waived_mm	string              	                    | annual_fee_waived_mm	void                	                    
+late_fee_percent    	string              	                    | late_fee_percent    	void                	                    
+period_id           	int                 	                    | period_id           	string              	                    
+first_payment_due_date	string              	                    | first_payment_due_date	void                	                    

@@ -1,0 +1,33 @@
+drop table if exists productreporting_qa.dev_std_retro_offer_data;
+create table productreporting_qa.dev_std_retro_offer_data as 
+select report_date
+,offer_identifier
+,app_identifier
+,consumer_identifier
+,offer_type_code
+,offer_type_description
+,promo_identifier
+,product_identifier
+,sub_product_identifier
+,accepted_offer_flag
+,offer_good_until_date
+,rescindable_days
+,rescinded_date
+,amount
+,rate
+,origination_fee_amount
+,origination_fee_rate
+,account_number
+,account_num_assigned_date_time
+,annual_fee_amount
+,annual_fee_waived_mm
+,late_fee_percent
+,late_fee_minimum_amount
+,offer_date_time
+,period_id
+,first_payment_due_date
+,contract_date
+,account_expiration_date from cobrand.cbpr_rpt_offer_level_data_fnl_36mon_lowes where report_date='2018-11-01' order by consumer_identifier;
+
+
+alter table productreporting_qa.dev_t_argus_offer_data set tblproperties('serialization.null.format'='null');

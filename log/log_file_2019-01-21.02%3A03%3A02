@@ -1,0 +1,204 @@
+[Info]:2019-01-21.02:03:02 Start reading parameters from config files
+[Info]:2019-01-21.02:03:02 Config file has been read successfully
+[Info]:2019-01-21.02:03:02 Starting Data type comparison of qa_std_retro_offer_data & dev_std_retro_offer_data
+[Info]:2019-01-21.02:04:10 Verification of data type mismatch started of qa_std_retro_offer_data table
+[Info]:2019-01-21.02:04:10 Verification of data type mismatch completed of qa_std_retro_offer_data table
+[Info]:2019-01-21.02:04:10 Verification of data type mismatch started of dev_std_retro_offer_data table
+[Info]:2019-01-21.02:04:10 Verification of data type mismatch completed of dev_std_retro_offer_data table
+                
+[Info]:2019-01-21.02:04:10 Data type mismatch file created @ /axp/gms/csassp/dev/test_automation/credit_approval_rate_target/results/datatyp_mismatch
+[Info]:2019-01-21.02:04:10 user has set 'src_typ' and 'tgt_typ' variables as 'file' in config file
+[Info]:2019-01-21.02:04:10 Control inside COMP() function
+[Info]:2019-01-21.02:04:10 Dynamic Compare query generation started
+[Info]:2019-01-21.02:04:11 temp4 file has been created successfully
+[Info]:2019-01-21.02:04:11 No of key is 1
+[Info]:2019-01-21.02:04:11 temp1 file created
+[Info]:2019-01-21.02:04:11 temp3 file created
+[Info]:2019-01-21.02:04:11 temp5 file has been created by merging temp1,temp2,temp3 and temp4
+[Info]:2019-01-21.02:04:11 temp6 file has been created.
+[Warning]:2019-01-21.02:04:11 User has set 'diff_rslt_csv' variable as Y in Config file
+[Info]:2019-01-21.02:04:11 compare.csv file has been created successfully
+[Info]:2019-01-21.02:04:11 Dynamic Compare query generation completed
+[Info]:2019-01-21.02:04:11 Control out from COMP() function
+[Info]:2019-01-21.02:07:16 Control inside stat1() function
+[Info]:2019-01-21.02:07:16 Comparison Completed
+[Info]:2019-01-21.02:07:16 Mismatch file created @ /axp/gms/csassp/dev/test_automation/credit_approval_rate_target/compare.csv
+[Info]:2019-01-21.02:07:16 Mismatch hive tables created @ productreporting_qa.test_std_offer_result_1
+[Info]:2019-01-21.02:07:16 Control inside null_col_lst() function
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:16 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:07:17 inside while loop of null_col_lst() function 
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 1  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 2  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 3  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 4  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 5  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 6  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 7  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 8  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 9  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 10  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 11  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 12  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 13  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 14  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 15  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 16  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 17  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 18  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 19  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 20  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 21  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 22  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 23  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 24  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 25  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 26  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 27  
+[Info]:2019-01-21.02:09:03 inside for loop of null_col_lst() function, value of i - 28  
+[Info]:2019-01-21.02:09:03 Control out from null_col_lst() function
+[Info]:2019-01-21.02:09:03 Control inside missmatch_col() function
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:09:03 inside while loop of mismatch_col() function 
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 1  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 2  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 3  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 4  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 5  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 6  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 7  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 8  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 9  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 10  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 11  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 12  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 13  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 14  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 15  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 16  
+[Info]:2019-01-21.02:10:39 inside for loop of mismatch_col() function, value of i - 17  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 18  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 19  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 20  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 21  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 22  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 23  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 24  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 25  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 26  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 27  
+[Info]:2019-01-21.02:10:40 inside for loop of mismatch_col() function, value of i - 28  
+[Info]:2019-01-21.02:15:29 Control out from missmatch_col() function
+[Info]:2019-01-21.02:15:29 Control inside distinct_col_lst() function
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:15:29 inside while loop of distinct_col_lst() function 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 1 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 2 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 3 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 4 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 5 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 6 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 7 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 8 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 9 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 10 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 11 
+[Info]:2019-01-21.02:17:03 inside for loop of distinct_col_lst() function, value of i - 12 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 13 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 14 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 15 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 16 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 17 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 18 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 19 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 20 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 21 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 22 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 23 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 24 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 25 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 26 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 27 
+[Info]:2019-01-21.02:17:04 inside for loop of distinct_col_lst() function, value of i - 28 
+[Info]:2019-01-21.02:17:04 Control out from distinct_col_lst() function
+[Info]:2019-01-21.02:17:04 Control inside email_alert() function
+[Info]:2019-01-21.02:21:26 value of cnt : 0 
+[Info]:2019-01-21.02:23:48 Control out from email_alert() function
+[Info]:2019-01-21.02:23:48 Control out from stat1() function
